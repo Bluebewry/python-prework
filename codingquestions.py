@@ -1,4 +1,4 @@
-""""
+
 # Question 1
 # Write a function to print "hello_USERNAME!" USERNAME is the input of the function.
 
@@ -72,7 +72,7 @@ print(is_consecutive(a_list))
 
 # B's Comment: I could not figure this out at all
 
-"""
+
 
 
 
